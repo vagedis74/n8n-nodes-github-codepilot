@@ -14,13 +14,13 @@
     "mcp"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/vagedis_23/n8n-nodes-github-codepilot",
+  "homepage": "https://github.com/wouter-bon/n8n-nodes-github-codepilot",
   "author": {
-    "name": "vagedis_23"
+    "name": "wouter-bon"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vagedis_23/n8n-nodes-github-codepilot.git"
+    "url": "git+https://github.com/wouter-bon/n8n-nodes-github-codepilot.git"
   },
   "main": "dist/index.js",
   "scripts": {
